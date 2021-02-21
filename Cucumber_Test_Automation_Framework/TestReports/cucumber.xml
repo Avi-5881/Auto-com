@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="59.303294">
+    <testcase classname="End to End Functional Test" name="Product Search and add to shopping cart" time="30.977004">
+        <system-out><![CDATA[Given user is on Home Page..................................................passed
+When he submit username and password........................................passed
+And he search for "hp laptop"...............................................passed
+And choose to buy the first item............................................passed
+And Add product to shopping cart............................................passed
+And Cliks on proceed to check out...........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="End to End Functional Test" name="Product Search and add to shopping cart 2" time="28.32629">
+        <system-out><![CDATA[Given user is on Home Page..................................................passed
+When he submit username and password........................................passed
+And he search for "hp laptop"...............................................passed
+And choose to buy the first item............................................passed
+And Add product to shopping cart............................................passed
+And Cliks on proceed to check out...........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
